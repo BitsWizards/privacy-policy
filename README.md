@@ -72,3 +72,74 @@ privacy policy
           Wykorzystywane jest narzędzie Firebase - Firestore Database.
           Administratorem baz danych jest wyżej wymieniony Deweloper.
           Dostawcą oprogramowania bazy danych jest Google – spółka Google Inc. zarejestrowana w stanie Delaware (USA) z siedzibą pod adresem 1600 Amphitheatre Parkway, Mountain View California 94043, USA, będąca operatorem sklepu internetowego Google Play.
+
+          The Ice&Health mobile application, hereinafter referred to as the "Application", is a tool
+           created for people who want to start their adventure with
+           winter swimming or those who want to develop their skills in these and
+           improving the health of the user, hereinafter referred to as the entity. In connection with
+           We care about and are committed to protecting the privacy of our users
+           their personal data.
+
+           By using the Ice&Health Application, the entity accepts the conditions described
+           in this document. This policy covers all functions
+           Applications, including account creation, personalized training,
+           messenger, tracking progress and planning training sessions.
+
+           To use the full functionality of the Application, creation is required
+           private account. During registration, we collect and process
+           the following personal data:
+           First name and last name,
+           E-mail adress,
+           Password,
+           Subject's medical data (including weight, height and age) Additionally, in
+           In order to personalize training, we may ask for information regarding
+           swimming preferences, and access to the built-in system
+           smartphone calendar.
+
+           Your personal data is used in the following ways:
+
+           To personalize workouts according to user preferences, Do
+           enabling communication between users using built-in
+           messenger, To track user progress and delivery
+           personalized reports, For planning future sessions
+           training sessions and other events, To create usage statistics
+           for marketing and development purposes,
+
+           We care about the security of user data and use appropriate measures
+           technical and organizational measures to secure information
+           against unauthorized access, loss or manipulation. Personal data
+           users will not be made available to third parties without their consent, unless
+           that the law requires it. The user has the right to access his or her data
+           personal data, their correction, deletion, as well as the right to transfer them
+           data. You may also withdraw your consent to data processing at any time
+           moment.
+
+           We reserve the right to change this document. Users
+           will be informed of any significant changes to their
+           acceptance. In connection with the use of the Ice&Health Application,
+           the user agrees to the exclusion of the developer's liability
+           application, including its employees, representatives and associates,
+           for any damage, loss of health or loss of life resulting
+           directly or indirectly from the use of the Application. The app has
+           supporting and informative nature, and all decisions regarding
+           physical activity is undertaken entirely at your own risk
+           user. You understand that the App is not a replacement
+           professional medical advice, and any training suggestions are provided
+           general nature. If you have any doubts about your health,
+           It is recommended to consult an appropriate specialist before
+           starting a new training program. The developer is not responsible
+           responsibility for the consequences resulting from failure to comply
+           recommendations, improper use of the Application or failure to take into account
+           the user's individual health restrictions. using
+           Application, the user accepts the risks associated with physical activity
+           and excludes the developer from any liability for any potential
+           health damage or loss of life resulting from the use of the Application
+           Ice&Health.
+           To operate databases, including the entity's personal data:
+           First name and last name,
+           E-mail adress,
+           Password,
+           Subject's medical data (including weight, height and age)
+           The Firebase tool - Firestore Database - is used.
+           The database administrator is the above-mentioned Developer.
+           The supplier of the database software is Google - Google Inc. registered in the state of Delaware (USA) with its registered office at 1600 Amphitheater Parkway, Mountain View California 94043, USA, which is the operator of the Google Play online store.
